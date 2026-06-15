@@ -1,3 +1,24 @@
+
+
+# Huawei credentials
+agconnect-services.json
+
+# Android signing
+*.keystore
+*.jks
+
+# Build outputs
+*.aar
+*.apk
+build/
+.gradle/
+
+# IDE
+.idea/
+*.iml
+local.properties
+
+
 # Gradle files
 .gradle/
 build/
